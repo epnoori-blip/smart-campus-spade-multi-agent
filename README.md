@@ -7,3 +7,6 @@ It covers three main scenarios:
 - Lecture room booking
 - Seminar space reservation
 - Conflict resolution between competing requests based on priority
+ How to run:
+1-pip install spade
+2-python main.py
