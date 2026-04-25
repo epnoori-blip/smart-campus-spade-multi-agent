@@ -1,2 +1,9 @@
 # smart-campus-spade-multi-agent
-A multi-agent system that simulates smart campus space coordination with priority-based room booking and conflict resolution using SPADE.
+This project implements a Multi-Agent System (MAS) for a Smart Campus Space Coordination System using the SPADE framework in Python.
+
+The system automates university room allocation by enabling autonomous agents to communicate, negotiate, and make decisions based on incoming requests.
+
+It covers three main scenarios:
+- Lecture room booking
+- Seminar space reservation
+- Conflict resolution between competing requests based on priority
